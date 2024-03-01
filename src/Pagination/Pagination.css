@@ -1,0 +1,26 @@
+.mybtn{
+
+    width: 35px;
+    margin-right: 40px;
+    border-radius: 0 !important;
+    background-color:  transparent;
+    border: 1px solid red;
+    color: #000;
+}
+.mybtn:focus{
+    background-color: red !important;
+}
+.mybtn:hover{
+    border: 1px solid red;
+    background-color: transparent;
+  color: #000;
+}
+
+
+.BtnPAnigation{
+    text-align: center;
+    padding: 20px 0;
+}
+.BackGround{
+   background-color: red; 
+}

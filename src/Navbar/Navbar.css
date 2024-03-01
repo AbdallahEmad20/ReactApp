@@ -1,0 +1,31 @@
+
+.Navbar{
+    border:"2px solid red";
+    width:100%;
+    height: 60px;
+    background-color:  red;
+}
+
+.Navbar ul {
+    display: flex;
+    align-items: center;
+    border: 2px solid #fff;
+    height: 100%;
+}
+
+.Navbar ul li{
+    list-style-type: none;
+}
+
+.Navbar ul  a{
+text-decoration: none;
+color: #fff;
+margin-right: 20px;
+}
+.MyBtn{
+    border:none;
+    width: 140px;
+    height: 50px;
+    background-color: crimson;
+    color: #fff;
+}
